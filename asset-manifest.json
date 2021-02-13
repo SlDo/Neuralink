@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Neuralink/static/css/main.304c0b2f.chunk.css",
+    "main.js": "/Neuralink/static/js/main.bdd3e835.chunk.js",
+    "main.js.map": "/Neuralink/static/js/main.bdd3e835.chunk.js.map",
+    "runtime-main.js": "/Neuralink/static/js/runtime-main.7e213b96.js",
+    "runtime-main.js.map": "/Neuralink/static/js/runtime-main.7e213b96.js.map",
+    "static/js/2.45151780.chunk.js": "/Neuralink/static/js/2.45151780.chunk.js",
+    "static/js/2.45151780.chunk.js.map": "/Neuralink/static/js/2.45151780.chunk.js.map",
+    "static/js/3.d08ea6bc.chunk.js": "/Neuralink/static/js/3.d08ea6bc.chunk.js",
+    "static/js/3.d08ea6bc.chunk.js.map": "/Neuralink/static/js/3.d08ea6bc.chunk.js.map",
+    "index.html": "/Neuralink/index.html",
+    "static/css/main.304c0b2f.chunk.css.map": "/Neuralink/static/css/main.304c0b2f.chunk.css.map",
+    "static/js/2.45151780.chunk.js.LICENSE.txt": "/Neuralink/static/js/2.45151780.chunk.js.LICENSE.txt",
+    "static/media/blue-brain.76825a95.png": "/Neuralink/static/media/blue-brain.76825a95.png",
+    "static/media/green-brain.cfb3f0b4.png": "/Neuralink/static/media/green-brain.cfb3f0b4.png",
+    "static/media/style.scss": "/Neuralink/static/media/homepage-tablet.b2efde56.png",
+    "static/media/red-brain.667ebeed.png": "/Neuralink/static/media/red-brain.667ebeed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e213b96.js",
+    "static/js/2.45151780.chunk.js",
+    "static/css/main.304c0b2f.chunk.css",
+    "static/js/main.bdd3e835.chunk.js"
+  ]
+}
