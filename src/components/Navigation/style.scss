@@ -1,0 +1,34 @@
+.navigation {
+  display: inline-flex;
+
+  &__list {
+    margin: 0;
+    padding: 0 10px;
+  }
+
+  &__link {
+    list-style-type: none;
+    padding: 3px 0;
+
+    .link {
+      position: relative;
+
+      &:after {
+        content: '';
+        position: absolute;
+        top: 50%; right: -25px;
+        width: 15px;
+        height: 2px;
+        background: var(--color-white);
+        opacity: 0;
+        transition: .25s;
+      }
+
+      &:hover {
+        &:after {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}

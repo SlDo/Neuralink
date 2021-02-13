@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import 'variables';
+
+:root {
+  --color-lavender: #{$color-lavender};
+  --color-white: #{$color-white};
+  --color-red: #{$color-red};
+  --color-blue: #{$color-blue};
+  --color-green: #{$color-green};
+  --color-grey: #{$color-grey};
+  --color-light-blue: #{$color-light-blue};
+  --color-dark: #{$color-dark};
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+}
+
+%general-link {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.link {
+  @extend %general-link;
+
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.outside-link {
+  @extend %general-link;
+
+  color: var(--color-grey);
+}
+
+.text {
+  color: #FFFFFF;
+  font-size: 1.125rem;
+}
