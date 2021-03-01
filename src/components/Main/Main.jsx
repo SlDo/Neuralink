@@ -16,7 +16,7 @@ export function MainBlock() {
 
   return (
     <section className='main'>
-      <Title style={titleAnim} type='h1' text={'Breakthrough \n Technology \n for the Brain'} />
+      <Title titleStyle={titleAnim} type='h1' text={'Breakthrough \n Technology \n for the Brain'} />
       <Group oriented='horizontal' className='main__more'>
         <Button icon={LinkSVG} label='Join the Team' type='link' to='/' />
         <Button icon={LinkSVG} label='Watch the update' type='link' to='/' />

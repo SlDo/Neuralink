@@ -27,10 +27,10 @@ export function Button({
 }
 
 Button.propTypes = {
-  type: PropTypes.oneOf([themes.LINK]),
+  type: PropTypes.oneOf(Object.values(themes)),
   label: PropTypes.string,
   to: PropTypes.string,
-  icon: PropTypes.shape,
+  icon: PropTypes.objectOf(PropTypes.any),
   onClick: PropTypes.func,
 };
 
@@ -38,6 +38,6 @@ Button.defaultProps = {
   to: '/',
   label: null,
   type: themes.DEFAULT,
-  icon: null,
+  icon: undefined,
   onClick: undefined,
 };

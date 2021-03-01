@@ -5,11 +5,11 @@ import { Navigation } from '../Navigation/Navigation';
 export function PageNavigation() {
   return (
     <Navigation list={[
-      { label: 'Science', link: '/' },
-      { label: 'Approach', link: '/' },
-      { label: 'Applications', link: '/' },
-      { label: 'About Us', link: '/' },
-      { label: 'Careers', link: '/' },
+      { label: 'Science', link: '/', id: 1 },
+      { label: 'Approach', link: '/', id: 2 },
+      { label: 'Applications', link: '/', id: 3 },
+      { label: 'About Us', link: '/', id: 4 },
+      { label: 'Careers', link: '/', id: 5 },
     ]}
     />
   );
