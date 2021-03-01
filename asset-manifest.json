@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/Neuralink/static/css/main.99f6f6c3.chunk.css",
-    "main.js": "/Neuralink/static/js/main.a76548c3.chunk.js",
-    "main.js.map": "/Neuralink/static/js/main.a76548c3.chunk.js.map",
-    "runtime-main.js": "/Neuralink/static/js/runtime-main.7e213b96.js",
-    "runtime-main.js.map": "/Neuralink/static/js/runtime-main.7e213b96.js.map",
-    "static/js/2.45151780.chunk.js": "/Neuralink/static/js/2.45151780.chunk.js",
-    "static/js/2.45151780.chunk.js.map": "/Neuralink/static/js/2.45151780.chunk.js.map",
-    "static/js/3.d08ea6bc.chunk.js": "/Neuralink/static/js/3.d08ea6bc.chunk.js",
-    "static/js/3.d08ea6bc.chunk.js.map": "/Neuralink/static/js/3.d08ea6bc.chunk.js.map",
+    "main.css": "/Neuralink/static/css/main.eb642218.chunk.css",
+    "main.js": "/Neuralink/static/js/main.e8c17f13.chunk.js",
+    "main.js.map": "/Neuralink/static/js/main.e8c17f13.chunk.js.map",
+    "runtime-main.js": "/Neuralink/static/js/runtime-main.48ab3629.js",
+    "runtime-main.js.map": "/Neuralink/static/js/runtime-main.48ab3629.js.map",
+    "static/js/2.a8d3d820.chunk.js": "/Neuralink/static/js/2.a8d3d820.chunk.js",
+    "static/js/2.a8d3d820.chunk.js.map": "/Neuralink/static/js/2.a8d3d820.chunk.js.map",
+    "static/js/3.8a132875.chunk.js": "/Neuralink/static/js/3.8a132875.chunk.js",
+    "static/js/3.8a132875.chunk.js.map": "/Neuralink/static/js/3.8a132875.chunk.js.map",
     "index.html": "/Neuralink/index.html",
-    "static/css/main.99f6f6c3.chunk.css.map": "/Neuralink/static/css/main.99f6f6c3.chunk.css.map",
-    "static/js/2.45151780.chunk.js.LICENSE.txt": "/Neuralink/static/js/2.45151780.chunk.js.LICENSE.txt",
+    "static/css/main.eb642218.chunk.css.map": "/Neuralink/static/css/main.eb642218.chunk.css.map",
+    "static/js/2.a8d3d820.chunk.js.LICENSE.txt": "/Neuralink/static/js/2.a8d3d820.chunk.js.LICENSE.txt",
     "static/media/blue-brain.76825a95.png": "/Neuralink/static/media/blue-brain.76825a95.png",
     "static/media/green-brain.cfb3f0b4.png": "/Neuralink/static/media/green-brain.cfb3f0b4.png",
     "static/media/style.scss": "/Neuralink/static/media/homepage-tablet.b2efde56.png",
+    "static/media/inputBtnIcon.24a31d30.svg": "/Neuralink/static/media/inputBtnIcon.24a31d30.svg",
+    "static/media/linkSvg.cabb9beb.svg": "/Neuralink/static/media/linkSvg.cabb9beb.svg",
     "static/media/red-brain.667ebeed.png": "/Neuralink/static/media/red-brain.667ebeed.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e213b96.js",
-    "static/js/2.45151780.chunk.js",
-    "static/css/main.99f6f6c3.chunk.css",
-    "static/js/main.a76548c3.chunk.js"
+    "static/js/runtime-main.48ab3629.js",
+    "static/js/2.a8d3d820.chunk.js",
+    "static/css/main.eb642218.chunk.css",
+    "static/js/main.e8c17f13.chunk.js"
   ]
 }
