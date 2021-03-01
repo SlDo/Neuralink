@@ -1,0 +1,26 @@
+.button {
+  font-size: 1.125rem;
+  white-space: nowrap;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+  &:hover {
+    .button__icon {
+      transform: scale(1.25);
+    }
+  }
+
+  &[data-theme='link'] {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  &__icon {
+    height: 12px;
+    margin-left: 10px;
+    transition: transform .25s ease-in-out;
+  }
+}

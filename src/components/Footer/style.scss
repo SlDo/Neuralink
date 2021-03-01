@@ -1,0 +1,45 @@
+@import '../../styles';
+
+.footer {
+  display: flex;
+  padding: $container-padding-v;
+  background: var(--color-white);
+  flex-direction: row;
+  justify-content: space-around;
+
+  & * {
+    font-size: 0.875rem;
+  }
+
+  .copyright, .link {
+    color: var(--color-grey);
+    margin: 0;
+  }
+
+  .link {
+    &:after {
+      background: var(--color-grey);
+    }
+  }
+
+  .outside-link {
+    transition: .25s;
+
+    &:hover {
+      color: var(--color-dark);
+    }
+  }
+
+  .contact {
+    justify-content: space-between;
+    width: 25%;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .footer {
+    .contact, .navigation {
+      display: none !important;
+    }
+  }
+}

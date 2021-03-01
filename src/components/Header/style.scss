@@ -1,0 +1,12 @@
+@import '../../styles/mixins';
+@import '../../styles/variables';
+
+.header {
+  @include flexRow;
+  justify-content: space-between;
+  position: absolute;
+  top: $container-padding-v;
+  padding: 0 $container-padding-h;
+  width: 100%;
+  z-index: 10;
+}
